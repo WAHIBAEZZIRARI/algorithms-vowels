@@ -1,0 +1,16 @@
+Algorithme voyelles
+Variables
+Tableau V(6): caractère
+i : entier
+Début
+V (0) <-- "A"
+V (1) <-- "E"
+V (2) <-- "I"
+V (3) <-- "0"
+V (4) <-- "U"
+V (5) <-- "Y"
+Ecrire ("Les voyelles de l'alphabet français sont:")
+Pour i <-- 0 à 5 faire
+Ecrire( V(i) )
+fin Pour
+Fin
